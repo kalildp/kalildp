@@ -1,4 +1,4 @@
-# 💫 sobre mim:
+# 👦🏻 sobre mim:
 meu nome é Kalil<br>tenho 16 anos<br>estou cursando o segundo ano do ensino médio<br>em 2022 eu fui jovem aprendiz <br>tenho curso de logística, robótica e inglês<br>no momento estou fazendo curso de programador<br>meu inglês é nível intermediário.
 
 
