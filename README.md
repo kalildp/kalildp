@@ -17,7 +17,7 @@ meu nome é Kalil<br>tenho 16 anos<br>estou cursando o segundo ano do ensino mé
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalildp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ 
-As vezes eu ganho, as vezes eu perco, mas todas as vezes eu aprendo
+𝑨𝒔 𝒗𝒆𝒛𝒆𝒔 𝒆𝒖 𝒈𝒂𝒏𝒉𝒐, 𝒂𝒔 𝒗𝒆𝒛𝒆𝒔 𝒆𝒖 𝒑𝒆𝒓𝒄𝒐, 𝒎𝒂𝒔 𝒕𝒐𝒅𝒂𝒔 𝒂𝒔 𝒗𝒆𝒛𝒆𝒔 𝒆𝒖 𝒂𝒑𝒓𝒆𝒏𝒅𝒐
 
 
 ### 🔝 Top Contributed Repo
