@@ -6,3 +6,4 @@
 <h4>tenho curso de logística, robótica e inglês
 <h4>no momento estou fazendo curso de programador
 <h4>meu inglês é nivel intermediario 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalildp&show_icons=true&theme=radical)
