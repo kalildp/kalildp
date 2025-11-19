@@ -1,5 +1,5 @@
 # 👦🏻 sobre mim:
-meu nome é Kalil<br>tenho 18 anos<br>estou cursando o segundo ano do ensino médio<br>em 2022 eu fui jovem aprendiz <br>tenho curso de logística, robótica e inglês<br>no momento estou fazendo curso de programador<br>meu inglês é nível intermediário.
+meu nome é Kalil<br>tenho 19 anos<br>estou cursando Ciências da Computação <br>em 2022 eu fui jovem aprendiz <br>tenho curso de logística, robótica e inglês<br>meu inglês é nível intermediário.
 
 
 ![16](https://github.com/kalildp/kalildp/assets/131174925/fcc114cc-72a2-4114-8648-6e198b062b32)
